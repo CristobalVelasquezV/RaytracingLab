@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Unreal Projects\Study\Labs\New folder\tda362-labs-2020\lab3-camera\lab3_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Unreal Projects\Study\Labs\New folder\tda362-labs-2020\lab3-camera\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Unreal Projects\Study\Labs\New folder\tda362-labs-2020\lab3-camera\simple.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Unreal Projects\Study\Labs\New folder\tda362-labs-2020\lab3-camera\simple.vert">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{AEB2DC23-EB25-30BE-80F5-4801F5C43ECB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CF112C8B-207A-32B1-91A2-61E9CD60F8E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

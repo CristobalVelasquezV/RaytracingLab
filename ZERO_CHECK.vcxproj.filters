@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Unreal Projects\Study\Labs\New folder\tda362-labs-2020\CMakeFiles\94d039c80f0eb87db79bb5a890e9f460\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{904DA89B-BFB1-3465-B75C-B554863F22EB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
